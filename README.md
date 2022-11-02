@@ -12,7 +12,7 @@ src="https://img.shields.io/github/followers/navidpadid?logo=github&style=for-th
 
 - 💻 Graduate Machine Learning Researcher & CS Student at UWaterloo
 - ⌛ Machine Learning in Computer Networks & Network Security
-- My motivations:
+- My motivation:
 “There's a light somewhere.
 It may not be much light but
 it beats the darkness. ” - Charles Bukowski
