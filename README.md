@@ -10,6 +10,12 @@ src="https://img.shields.io/github/followers/navidpadid?logo=github&style=for-th
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/navid.mk/)](https://www.instagram.com/navid.mk)
 [![Github](https://img.shields.io/github/followers/navidpadid?label=Follow&style=social)](https://github.com/navidpadid)
 
+- 💻 Graduate Machine Learning Researcher & CS Student at UWaterloo
+- ⌛ Machine Learning in Computer Networks & Network Security
+- My motivations:
+“There's a light somewhere.
+It may not be much light but
+it beats the darkness.”
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navidpadid&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
