@@ -5,7 +5,7 @@
 src="https://img.shields.io/github/followers/navidpadid?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/navid-malekghaini-b9bb6b128/)
-[![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nmalekgh@uwaterloo.ca)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nmalekgh@uwaterloo.ca)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://navidmalek.blog.ir/)](https://navidmalek.blog.ir/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/navid.mk/)](https://www.instagram.com/navid.mk)
 [![Github](https://img.shields.io/github/followers/navidpadid?label=Follow&style=social)](https://github.com/navidpadid)
