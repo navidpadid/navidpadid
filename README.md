@@ -11,7 +11,7 @@ src="https://img.shields.io/github/followers/navidpadid?logo=github&style=for-th
 
 - 💻 Graduate Machine Learning Researcher & CS Student at [Systems and Networking Lab](https://rboutaba.cs.uwaterloo.ca/team.html)
 - ⌛ Machine Learning in Computer Networks & Network Security in Collaboration with [Orange:tm: company](https://www.orange.com/en)
-- My motivation:
+- 🪔 My motivation:
 “There's a light somewhere.
 It may not be much light but
 it beats the darkness. ” - Charles Bukowski
