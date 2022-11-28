@@ -9,7 +9,7 @@ src="https://img.shields.io/github/followers/navidpadid?logo=github&style=for-th
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://navidmalek.blog.ir/)](https://navidmalek.blog.ir/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/navid.mk/)](https://www.instagram.com/navid.mk)
 
-- 💻 Graduate Machine Learning Researcher & CS Student at [Systems and Networking Lab](https://rboutaba.cs.uwaterloo.ca/team.html)
+- 💻 Graduate Machine Learning Researcher & CS Student at [Systems and Networking Lab, University of Waterloo](https://rboutaba.cs.uwaterloo.ca/team.html)
 - ⌛ Machine Learning in Computer Networks & Network Security in Collaboration with [Orange:tm: company](https://www.orange.com/en)
 - 🪔 My motivation:
 “There's a light somewhere.
