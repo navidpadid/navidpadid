@@ -32,8 +32,8 @@ it beats the darkness. ” - Charles Bukowski
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
 
 <details>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navidpadid&theme=algolia) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navidpadid&theme=2077) 
+<img src=http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navidpadid&theme=algolia" /> 
+<img src=http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navidpadid&theme=2077" />
 </details>
 <!--   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navidpadid&show_icons=true&locale=en&layout=compact" alt="hejazizo" /> -->
 
