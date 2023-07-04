@@ -34,6 +34,7 @@ it beats the darkness. ” - Charles Bukowski
 
 
 <div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navidpadid&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navidpadid&theme=2077) 
+<!--   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navidpadid&show_icons=true&locale=en&layout=compact" alt="hejazizo" /> -->
 </div>
 
