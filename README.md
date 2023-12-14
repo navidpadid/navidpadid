@@ -11,7 +11,7 @@ src="https://img.shields.io/github/followers/navidpadid?logo=github&style=for-th
 
 - 💻 R&D Software Engineer at [Huawei Cloud Object Storage Innovation Team, Intelligent Cloud Infrastructure Lab, Canada](https://www.huawei.com/ca/)
 - 🖥️ Prev. Senior Machine Learning Researcher & Consultant at [Systems and Networking Lab, University of Waterloo](https://rboutaba.cs.uwaterloo.ca/team.html)
-- ⌛ Prev. Machine Learning in Computer Networks & Network Security in Collaboration with [Orange:tm: Telecom](https://www.orange.com/en)
+- ⌛ Prev. Machine Learning in Computer Networks & Network Security in Collaboration with [Orange :tm: Telecom](https://www.orange.com/en)
 - 🪔 My motivation:
 “There's a light somewhere.
 It may not be much light but
