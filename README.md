@@ -9,7 +9,7 @@ src="https://img.shields.io/github/followers/navidpadid?logo=github&style=for-th
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://navidmalek.blog.ir/)](https://navidmalek.blog.ir/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/navid.mk/)](https://www.instagram.com/navid.mk)
 
-- 💻 R&D Software Engineer at [Huawei Cloud Object Storage Innovation Team, Intelligent Cloud Infrastructure Lab, Canada](https://www.huawei.com/ca/)
+- 💻 R&D Software Engineer at [Huawei Cloud Object Storage Innovation, Intelligent Cloud Infrastructure Lab, Canada](https://www.huawei.com/ca/)
 - 🖥️ Prev. Senior Machine Learning Researcher & Consultant at [Systems and Networking Lab, University of Waterloo](https://rboutaba.cs.uwaterloo.ca/team.html)
 - ⌛ Prev. Machine Learning in Computer Networks & Network Security in Collaboration with [Orange :tm: Telecom](https://www.orange.com/en)
 - 🪔 My motivation:
