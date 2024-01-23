@@ -33,9 +33,9 @@ it beats the darkness. ” - Charles Bukowski
 
 <!-- <details> -->
  <p align="center">
-  <a href="https://github.com/navidpadid">
+<!--   <a href="https://github.com/navidpadid">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navidpadid&theme=algolia" /> 
-  </a>
+  </a> -->
   <a href="https://github.com/navidpadid">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navidpadid&theme=2077" />
   </a>
