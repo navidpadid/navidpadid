@@ -4,6 +4,8 @@
 <!-- </a> <a href="https://www.github.com/navidpadid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/navidpadid?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=500&random=false&width=435&lines=R%26D+Software+Engineer+%40+HUAWEI+Canada;Prev.+Senior+ML+Researcher+%40+UWaterloo+Canada+X+Orange+R%26D+France)](https://git.io/typing-svg)
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/navid-malekghaini-b9bb6b128/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nmalekgh@uwaterloo.ca)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://navidmalek.blog.ir/)](https://navidmalek.blog.ir/)
