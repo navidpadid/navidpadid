@@ -4,14 +4,12 @@
 <!-- </a> <a href="https://www.github.com/navidpadid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/navidpadid?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=500&random=false&width=435&lines=ML/SWE+%40+UWaterloo+CA+X+Orange+R%26D+FR)](https://git.io/typing-svg)
-
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/navid-malekghaini-b9bb6b128/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nmalekgh@uwaterloo.ca)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://navidmalek.blog.ir/)](https://navidmalek.blog.ir/)
 
-- 🖥️ Machine Learning Researcher & Engineer at [Systems and Networking Lab, University of Waterloo](https://rboutaba.cs.uwaterloo.ca/team.html)
-- ⌛ Machine Learning Researcher & Engineer in Computer Networks & Network Security in Collaboration with [Orange :tm: Telecom](https://www.orange.com/en)
+- 🖥️ Current: Senior software engineer in R&D domain (more focused on distributed systems infrastructure)
+- 🖥️ Prev. Machine Learning Researcher & Engineer at [Systems and Networking Lab, University of Waterloo](https://rboutaba.cs.uwaterloo.ca/team.html) and [Orange :tm: Telecom](https://www.orange.com/en) in Computer Networks & Network Security
+
 - 🪔 My motivation:
 “There's a light somewhere.
 It may not be much light but
@@ -46,15 +44,11 @@ it beats the darkness. ”
 
 
 ### DB:
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### OS:
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
 
 
 <!-- <details> -->
