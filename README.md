@@ -1,9 +1,5 @@
 <h1> Navid Malekghaini </h1>
 
-
-<!-- </a> <a href="https://www.github.com/navidpadid" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/navidpadid?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
-
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/navid-malekghaini-b9bb6b128/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nmalekgh@uwaterloo.ca)
 
@@ -19,7 +15,6 @@ it beats the darkness. ”
 ### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c/c++-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Starlark](https://img.shields.io/badge/Starlark-0F9D58?style=for-the-badge&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
@@ -51,16 +46,13 @@ it beats the darkness. ”
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 
-<!-- <details> -->
  <p align="center">
-<!--   <a href="https://github.com/navidpadid">
+  <!-- <a href="https://github.com/navidpadid">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navidpadid&theme=algolia" /> 
   </a> -->
   <a href="https://github.com/navidpadid">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navidpadid&theme=2077" />
   </a>
  </p>
-<!-- </details> -->
-<!--   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navidpadid&show_icons=true&locale=en&layout=compact" alt="hejazizo" /> -->
 
 
