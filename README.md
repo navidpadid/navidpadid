@@ -1,4 +1,4 @@
-<h1> Navid Malekghaini </h1>
+ <h1> Navid Malekghaini </h1>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/navid-malekghaini-b9bb6b128/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nmalekgh@uwaterloo.ca)
@@ -11,6 +11,7 @@
 It may not be much light but
 it beats the darkness. ”
 
+<!--
 ---
 ### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -45,7 +46,7 @@ it beats the darkness. ”
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-
+-->
  <p align="center">
   <!-- <a href="https://github.com/navidpadid">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navidpadid&theme=algolia" /> 
@@ -55,4 +56,4 @@ it beats the darkness. ”
   </a>
  </p>
 
-
+ 
